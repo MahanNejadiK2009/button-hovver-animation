@@ -1,2 +1,2 @@
 # button-hovver-animation
-button hovver animation
+button hover animation
